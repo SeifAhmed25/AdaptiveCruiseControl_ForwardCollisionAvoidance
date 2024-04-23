@@ -4,7 +4,7 @@ This repo contains the implementation of two ADAS Features (Adaptive Cruise Cont
 
 ## Project Machine State Diagram 
 
-![Project Machine State](https://github.com/SeifAhmed25/AdaptiveCruiseControl_ForwardCollisionAvoidance/assets/64741466/50f93f94-153c-411f-a04a-53435cbd0cc4)
+![Project Machine State](https://github.com/SeifAhmed25/AdaptiveCruiseControl_ForwardCollisionAvoidance/assets/64741466/887afc53-483c-4365-9db8-eff880fa1495)
 
 ## Reqiurements 
 
